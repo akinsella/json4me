@@ -34,8 +34,8 @@
 	<inceptionYear>2008</inceptionYear>
 
 	<scm>
-		<connection>https://r13491.ovh.net/svn/Json4ME/trunk</connection>
-		<developerConnection>https://r13491.ovh.net/svn/Json4ME/trunk</developerConnection>
+		<connection>scm:svn:https://r13491.ovh.net/svn/Json4ME/trunk</connection>
+		<developerConnection>scm:svn:https://r13491.ovh.net/svn/Json4ME/trunk</developerConnection>
 		<tag>HEAD</tag>
 		<url>http://r13491.ovh.net/websvn/helyx.org/listing.php?repname=Json4ME&amp;path=%2Ftrunk%2F#_trunk_</url>
 	</scm>
