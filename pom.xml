@@ -71,7 +71,7 @@
 	<repositories>
 		<repository>
 			<id>helyx.org</id>
-			<url>http://localhost:8080/archiva/repository/internal/</url>
+			<url>http://r13491.ovh.net/archiva/repository/internal/</url>
 		</repository>
 	</repositories>
 
