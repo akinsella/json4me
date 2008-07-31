@@ -15,7 +15,7 @@
 	<packaging>jar</packaging>
 
 	<description>Json4ME is an utility project to package oss helper classes for json from json.org/java page.</description>
-	<url>http://json.helyx.org</url>
+	<url>http://json4me.helyx.org</url>
 
 	<licenses>
 		<license>
